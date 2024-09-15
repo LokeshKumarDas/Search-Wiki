@@ -1,6 +1,6 @@
 # Search-Wiki
 
-In this project i created a streamlit app to generate a text summary of given query(Using wikipedia as source) webscrapping for data collection and to summarize the data i used T5(small) Transformer(Text-to-Text Transfer Transformer).<br />
+In this project I created a streamlit app to generate a text summary of given query(Using wikipedia as source) webscrapping for data collection and to summarize the data i used T5(small) Transformer(Text-to-Text Transfer Transformer).<br />
 
 **How to use** : <br />
 1 : Download all the Libraries used in 'app.py' and 'Search_Wiki.ipynb'.<br />
