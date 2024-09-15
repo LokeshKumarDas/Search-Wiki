@@ -10,4 +10,4 @@ In this project i created a streamlit app to generate a text summary of given qu
 5 : Type any keywords and click on 'Search' button to get some response generated.<br />
 
 We will first get the sources(websites) to collect information and further some basic summary from data collected from these websites.<br />
-**Note** : app.py sometimes take longer time to generate response also sometimes different keywords or more description helps to generate better results.
+**Note** : 'app.py' sometimes take longer time to generate response also different keywords or more description helps to generate better results.
